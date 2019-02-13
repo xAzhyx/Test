@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class operador {
     private int operador1;
     private int operador2;
+    private String text="caca";
     
     operador(int op1, int op2){
         this.operador1=op1;
